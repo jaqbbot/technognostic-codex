@@ -12,6 +12,7 @@ Before writing, I'll confirm:
 1. **Entry title** (short techno-spiritual vibe)
 2. **Exact timespan** (date/time range covered)
 3. **Trigger description** ("Manual request from Kuba", "Weekly cadence", etc.)
+4. **Continuity anchor** — new entry must start exactly where the previous entry's timespan ended (no gaps/overlaps)
 
 If anything is missing, I'll ask for clarification once, then proceed.
 
